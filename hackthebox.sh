@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script to download automatically
-# challenges to our remote machine
+# challenges to our local machine
 
 # Variables
 CHALLENGE=$1
