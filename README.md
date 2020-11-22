@@ -1,5 +1,5 @@
 # htb-get-challenge
-Automatically download HTB challenges into our local machine\
+Automatically download HTB challenges into your VPS\
 Get the **CHALLENGE_NUMBER** by hovering your mouse on the challenge download button
 
 ![HTB Challenge Number Tutorial Image](https://i.imgur.com/EFHYyxR.png)
